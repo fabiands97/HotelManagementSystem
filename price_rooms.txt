@@ -1,0 +1,8 @@
+hotelA tidak 46.0
+hotelA ya 40.0
+hotelB ya 70.5
+hotelB tidak 76.5
+hotelC ya 90.0
+hotelC tidak 96.0
+hotelD ya 65.0
+hotelD tidak 71.0
