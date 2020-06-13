@@ -1,3 +1,7 @@
+#Description
+Hotel Reservation System with Object Oriented Paradigm can manipulate Hotel Database with raw offline data which can be imported dan read into the systems. With the object classification in the specified class. The Object Oriented Paradigm simplify program bloc and program size instead of Procedural Programming Paradigm.
+
+
 Program Reservasi Hotel menggunakan Paradigma Object Oriented programming
 spesifikasi :
 - bahasa pemrograman : Python 3
